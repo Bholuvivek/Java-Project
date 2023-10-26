@@ -1,1 +1,1 @@
-# Quize-Applicationn
+# Quize-Application
